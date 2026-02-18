@@ -1,0 +1,17 @@
+# Dirs
+/target
+/volumes
+
+# Wildcards
+*.db
+*.txt
+*.md
+*.lock
+.*
+
+# Allow
+!.env-example
+!.gitignore
+!.cargo
+!.github
+!README.md
